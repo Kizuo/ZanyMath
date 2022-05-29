@@ -30,6 +30,10 @@ h1 {
 }
 	/* begins to set up font sizes relative to base rem – h1 has been used as an example */
 
+h2 {
+    font-size: 1.8rem;
+    text-align: center;
+}
  
 table { border-collapse: collapse; }
 td {
