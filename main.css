@@ -9,7 +9,7 @@ html, body {
 }
 	/* sets the body height of the browser, so that backgrounds and div heights work correctly. Color and background will almost certainly be altered; they are just placeholders */
 p {
-	font-size:.6rem;
+	font-size:1rem;
 	padding: .4rem;
 	text-align: center;
 }
