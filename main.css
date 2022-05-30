@@ -11,6 +11,7 @@ html, body {
 	
 body {
 	font-size: 1.4rem;
+	padding: .7rem;
 }
 	/* sets the base font size for the document; turns on kerning pairs and ligatures */
 	
