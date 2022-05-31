@@ -127,14 +127,14 @@ sup {
 /* sets superscript and subscript text so that it doesn't throw off leading for elements in which they are included */
 /* Add a black background color to the top navigation */
 .topnav {
-    background-color: #000000;
+    background-color: #D3D3D3;
     overflow: hidden;
 }
 
 .topnav a {
     float: left;
     display: block;
-    color: #20C20E;
+    color: #FFFFFF;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
@@ -149,7 +149,7 @@ sup {
 
 /* Add an active class to highlight the current page */
 .topnav a.active {
-    background-color: #5EB4DD;
+    background-color: #20C20E;
     color: white;
 }
 
